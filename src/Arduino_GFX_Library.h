@@ -18,6 +18,7 @@
 #include "databus/Arduino_ESP32PAR16QQ.h"
 #include "databus/Arduino_ESP32QSPI.h"
 #include "databus/Arduino_ESP32RGBPanel.h"
+#include "databus/Arduino_RPiPicoPAR8_Custom.h"
 #include "databus/Arduino_ESP32S2PAR8.h"
 #include "databus/Arduino_ESP32S2PAR8Q.h"
 #include "databus/Arduino_ESP32S2PAR16.h"
